@@ -5,7 +5,7 @@
             "name": "train",
             "type": "debugpy",
             "request": "launch",
-            "program": "/opt/ydt/bin/torchrun",
+            "program": ".venv/bin/torchrun",
             "console": "integratedTerminal",
             "justMyCode": false,
             "env": {
